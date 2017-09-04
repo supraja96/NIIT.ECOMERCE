@@ -1,5 +1,3 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="en">
 <head>
@@ -19,6 +17,7 @@
   </div>
   </div>
   <div class="page-header">
+  <div class="container-fuluid">
   <h1>Login</h1>
    <button type="button" class="btn btn-primary">Continue Shopping</button>
    <h1>Please Login</h1>
@@ -42,7 +41,8 @@
  <footer>
  </br>
  </br> 
-<p>© NIIT E-commerce case study project 2017</p>
+<p>Â© NIIT E-commerce case study project 2017</p>
+</div>
 </footer>
 </body>
 </html>
