@@ -3,7 +3,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="en">
 <head>
-  <title>Bootstrap Example</title>
+  <title>Example of Bootstrap</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -56,7 +56,7 @@
   </br>
 </div>
 <footer>
-<p>© NIIT E-commerce case study project 2017 </footer>
+<p>Â© NIIT E-commerce case study project 2017 </footer>
 </body>
 </html>
 </body>
