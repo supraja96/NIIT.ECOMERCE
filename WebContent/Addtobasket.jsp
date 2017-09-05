@@ -56,7 +56,8 @@
   </br>
 </div>
 <footer>
-<p>© NIIT E-commerce case study project 2017 </footer>
+    <p>© NIIT E-commerce case study project 2017 </p>
+</footer>
 </body>
 </html>
 </body>
